@@ -1,4 +1,4 @@
-module helpers
+module github.com/ss-shinobi/helpers
 
 go 1.16
 

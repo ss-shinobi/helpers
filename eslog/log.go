@@ -15,7 +15,7 @@ import (
 	"time"
 
 	uuid "github.com/gofrs/uuid"
-	"github.com/ss-shinobi/helpers"
+	"github.com/ss-shinobi/helpers@v0.1.0"
 )
 
 type Fields map[string]interface{}

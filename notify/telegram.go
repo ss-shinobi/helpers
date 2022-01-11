@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/ss-shinobi/helpers"
+	"github.com/ss-shinobi/helpers@v0.1.0"
 )
 
 type Telegram struct {
